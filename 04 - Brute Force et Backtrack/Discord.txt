@@ -1,24 +1,17 @@
-**Recursivité**
-
-__Slides__
-  - https://github.com/INSAlgo/INSAlgo-2022-2023/blob/20c85f3d675a987c342a59d0871ae6a01122ae3f/03%20-%20Algorithmes%20r%C3%A9cursifs/Cours3-Recursion.pdf
+**Cours BruteForce et Backtracking**
+__Slides__ : 
 
 __Exercices__
-
 Lvl 1
-  - 509. Fibonacci Number : https://leetcode.com/problems/fibonacci-number/
-  - The power of two : https://leetcode.com/problems/power-of-two/submissions/
-  - Count all possible paths from top left to bottom right : https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1#
+  - Icecream parlor : https://www.hackerrank.com/challenges/icecream-parlor/problem
+  - Two sum : https://leetcode.com/problems/two-sum/
+  - Permutation Sequence : https://leetcode.com/problems/permutation-sequence/
 
 Lvl 2
-  - 508. Most Frequent Subtree Sum : https://leetcode.com/problems/most-frequent-subtree-sum/
-  - 21. Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/
-  - 206. Reverse Linked List : https://leetcode.com/problems/reverse-linked-list/
-  
+  - Largest Triangle Area : https://leetcode.com/problems/largest-triangle-area/
+  - Letter Case Permutation : https://leetcode.com/problems/letter-case-permutation/
+  - Generate Parentheses : https://leetcode.com/problems/generate-parentheses/
+
 Lvl 3
-  - The power sum : https://www.hackerrank.com/challenges/the-power-sum/problem
-  - 241. Different Ways to Add Parentheses : https://leetcode.com/problems/different-ways-to-add-parentheses/
-
-__Solutions__
-
-  - https://github.com/INSAlgo/INSAlgo-2022-2023/tree/main/03%20-%20Algorithmes%20r%C3%A9cursifs
+  - N-Queens II : https://leetcode.com/problems/n-queens-ii/
+  - Sudoku Solver : https://leetcode.com/problems/sudoku-solver/

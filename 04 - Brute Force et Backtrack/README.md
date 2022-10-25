@@ -4,17 +4,17 @@
 ## Exercices
 ### Lvl 1
 
-  - [Icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) : [Solution](icecreamparlor.py)
-  - [Two sum](https://leetcode.com/problems/two-sum/) : [Solution](twosum.py)
-  - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) : [Solution](PermutationSequence.py)
+  - [Icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+  - [Two sum](https://leetcode.com/problems/two-sum/)
+  - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
 ### Lvl 2
 
-  - [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) : [Solution](triangleArea.py)
-  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](LetterCasePermutation.py)
-  - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) : [Solution](GenerateParentheses.py)
+  - [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
+  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+  - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ### Lvl 3
 
-  - [N-Queens II](https://leetcode.com/problems/n-queens-ii/) : [Solution](NQueens2.py)
-  - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) : [Solution](SudokuSolver.py)
+  - [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+  - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
