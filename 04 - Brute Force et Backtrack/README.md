@@ -1,5 +1,5 @@
 # Cours BruteForce et Backtracking
-  - [Slides]()
+  - [Slides](https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/04%20-%20Brute%20Force%20et%20Backtrack/Cours%206%20-%20BF%26BT.pdf)
 
 ## Exercices
 ### Lvl 1
