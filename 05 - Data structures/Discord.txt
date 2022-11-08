@@ -1,5 +1,5 @@
 **Cours Data Structures**
-  __Slides__ : 
+  __Slides__ : https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/05%20-%20Data%20structures/Cours%205%20-%20Data%20Structures.pdf
 
 __Exercices__
 Lvl 1
