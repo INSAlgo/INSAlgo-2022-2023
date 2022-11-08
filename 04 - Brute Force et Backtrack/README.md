@@ -5,7 +5,6 @@
 ### Lvl 1
 
   - [Icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
-  - [Two sum](https://leetcode.com/problems/two-sum/)
   - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
 ### Lvl 2
