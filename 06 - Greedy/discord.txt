@@ -1,0 +1,17 @@
+**Cours algorithmes greedy**
+  __Slides__ : lien
+
+__Exercices__
+
+Lvl 1
+
+ - Add'em Up : https://www.codingame.com/ide/puzzle/addem-up
+ - Luck Balance : https://www.hackerrank.com/challenges/luck-balance/problem
+ - Chief-hopper : https://www.hackerrank.com/challenges/chief-hopper/problem
+
+Lvl 2
+
+ - Greedy Florist : https://www.hackerrank.com/challenges/greedy-florist/problem
+ - Candies : https://www.hackerrank.com/challenges/candies/problem
+ - The gift : https://www.codingame.com/ide/puzzle/the-gift
+
