@@ -1,5 +1,5 @@
 # Cours Dynamic Programming
-[slides](Cours9-DynamicProgramming.pdf)
+[slides](Cours7-DynamicProgramming.pdf)
 
 ## Exercices
 
