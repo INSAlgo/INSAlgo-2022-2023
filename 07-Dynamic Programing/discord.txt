@@ -16,7 +16,7 @@ level 2
 3-
 
 level 3
-1- Blunder2: https://www.codingame.com/ide/puzzle/blunder-episode-2
+1- Blunder 2: https://www.codingame.com/ide/puzzle/blunder-episode-2
 2- Roller Coaster: https://www.codingame.com/ide/puzzle/roller-coaster
 
 
