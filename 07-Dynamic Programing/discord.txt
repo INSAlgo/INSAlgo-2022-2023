@@ -13,7 +13,7 @@ level 2
 
 1- Knapsack: https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/0
 2- Unbounde Knapsack: https://www.hackerrank.com/challenges/unbounded-knapsack/problem
-3-
+3- Gold Mine Problem: https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
 
 level 3
 1- Blunder 2: https://www.codingame.com/ide/puzzle/blunder-episode-2
