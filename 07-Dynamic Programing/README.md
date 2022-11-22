@@ -13,7 +13,7 @@
 
 - [Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/0)
 - [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
-- []()
+- [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1)
 
 ### Level 3
 
