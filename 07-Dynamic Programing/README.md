@@ -17,7 +17,7 @@
 
 ### Level 3
 
-- [Blunder épisode 2](https://www.codingame.com/ide/puzzle/blunder-episode-2) : [Solution](blunder 2.py)
+- [Blunder épisode 2](https://www.codingame.com/ide/puzzle/blunder-episode-2) : [Solution](blunder%202.py)
 - [Roller Coaster](https://www.codingame.com/ide/puzzle/roller-coaster) : [Solution](roller_coaster.py)
 
 
