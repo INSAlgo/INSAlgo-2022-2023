@@ -6,8 +6,8 @@ __Exercices__
 level 1
 
 1-Fibonacci Modified: https://www.hackerrank.com/challenges/fibonacci-modified/problem
-2-number of paths between 2 points: https://www.codingame.com/ide/puzzle/number-of-paths-between-2-points
-3-
+2-Number of paths between 2 points: https://www.codingame.com/ide/puzzle/number-of-paths-between-2-points
+3-Binomial Coefficient: https://practice.geeksforgeeks.org/problems/ncr1019/1
 
 level 2
 
