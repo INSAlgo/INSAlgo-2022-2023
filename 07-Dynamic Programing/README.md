@@ -6,8 +6,8 @@
 ### Level 1
 
 - [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) : [Solution](fibonacci_modified.py)
+- [Binomial Coefficient](https://practice.geeksforgeeks.org/problems/ncr1019/1) : [Solution](Binomial_coefficient.py)
 - [Number of Paths between 2 points](https://www.codingame.com/ide/puzzle/number-of-paths-between-2-points) : [Solution](number_of_paths.py)
-- []()
 
 ### Level 2
 
