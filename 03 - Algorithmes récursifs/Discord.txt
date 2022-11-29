@@ -1,7 +1,7 @@
 **Recursivité**
 
 __Slides__
-  - https://github.com/INSAlgo/INSAlgo-2022-2023/blob/20c85f3d675a987c342a59d0871ae6a01122ae3f/03%20-%20Algorithmes%20r%C3%A9cursifs/Cours3-Recursion.pdf
+  - https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/03%20-%20Algorithmes%20r%C3%A9cursifs/Cours3-Recursion.pdf
 
 __Exercices__
 
