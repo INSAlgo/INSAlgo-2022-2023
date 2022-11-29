@@ -1,7 +1,7 @@
 **Cours Libraries**
 
 __Slides__
-  - https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/08 - Libraries/Cours 8 - Python Libraries.pdf
+  - https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/08%20-%20Libraries/Cours%208%20-%20Python%20Libraries.pdf
 
 __Exercices__
 
@@ -18,7 +18,7 @@ Lvl 2
 Lvl 3
   - AOC 21 Day 14 : https://adventofcode.com/2021/day/14
 
-</br>
+
 
 Les exos AOC (Advent Of Code) Nécessitent de lire un fichier texte au lieu de l'input, voici une fonction qui prend le nom du fichier texte et renvoi une liste de strings correspondant aux lignes d'input :
 ```python
@@ -30,6 +30,7 @@ def read(path: str) -> list[str]:
     print(lines)
     return lines
 ```
+
 __Solutions__
 
-https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/08 - Libraries
+https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/08%20-%20Libraries

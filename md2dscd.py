@@ -1,5 +1,7 @@
 # Change classic markdown into inferior, digshit discord markdown for easier broadcast
 
+from argparse import ArgumentParser
+
 md_name = "README.md"
 dc_name = "Discord.txt"
 
@@ -23,7 +25,8 @@ def convert(folder: str) :
         # Format slides :
         if lines[i].startswith("[slides]") :
             Dest.write("__Slides__\n")
-            Dest.write("  - " + repo_link + folder + '/' + lines[i][9:-2] + '\n')
+            link = repo_link + folder + '/' + lines[i][9:-2] + '\n'
+            Dest.write("  - " + link.replace(' ', "%20"))
             continue
         
         # Format Exercice title :
@@ -40,8 +43,8 @@ def convert(folder: str) :
             lines[i] = "  - " + lines[i][3:i1] + " : " + lines[i][i1+2:i2] + lines[i][i2+1:i3] + "\n"
         
         # Fixing line jumps :
-        lines[i].replace("</br>\n", "\n")
-        lines[i].replace("</br>", "\n")
+        lines[i] = lines[i].replace("</br>\n", "\n")
+        lines[i] = lines[i].replace("</br>", "\n")
 
         # Format title :
         if lines[i].startswith("# ") :
@@ -49,15 +52,27 @@ def convert(folder: str) :
         
         Dest.write(lines[i])
 
-    Dest.write("\n__Solutions__\n\n" + repo_link + folder)
+    link = repo_link + folder
+    Dest.write("\n__Solutions__\n\n" + link.replace(' ', "%20"))
 
     Dest.close()
     return 0
 
 if __name__ == "__main__" :
-    error = convert("08 - Libraries")
+
+    parser = ArgumentParser(description="")
+
+    parser.add_argument(
+        '-f', '--folder',
+        help="name of the folder where the README.md file to convert is located",
+        action="store",
+        required=True
+    )
+
+    args = parser.parse_args()
+
+    error = convert(args.folder)
     if error == 1 :
         print("Could not open markdown")
     elif error == 2 :
         print("Could not open destination file")
-    
