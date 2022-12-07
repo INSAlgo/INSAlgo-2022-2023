@@ -4,7 +4,7 @@ Cours sur la notion de récursion.
 ## Exercices
 ### Level 1
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-  - [The power of two](https://leetcode.com/problems/power-of-two/submissions/) Try a recursion method!
+  - [Power of two](https://leetcode.com/problems/power-of-two/submissions/) Try a recursion method!
   - [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1#)
 ### Level 2
   - [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)

@@ -12,4 +12,4 @@ def powerSum(X, N):
                 break   
         return count
     
-    return(rec(X,N,1))
+    return(recurs(X,N,1))
