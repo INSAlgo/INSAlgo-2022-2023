@@ -3,13 +3,13 @@
 Cours sur la notion de récursion.
 ## Exercices
 ### Level 1
-  - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   - [The power of two](https://leetcode.com/problems/power-of-two/submissions/) Try a recursion method!
   - [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1#)
 ### Level 2
-  - [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
-  - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-  - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
+  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 ### Level 3
   - [The power sum](https://www.hackerrank.com/challenges/the-power-sum/problem)
-  - [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+  - [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
