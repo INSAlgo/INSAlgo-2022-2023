@@ -1,6 +1,6 @@
 # Cours POO et Classes
 
-[Slides](Cours 9 - POO et Classes.pdf)
+[Slides](https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/09%20-%20POO%20et%20Classes/Cours%209%20-%20POO%20et%20Classes.pdf)
 
 Introduction à la programmation orientée objet et application des classes à l'algo, particulièrement en Python.
 
