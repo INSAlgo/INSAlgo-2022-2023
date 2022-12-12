@@ -10,7 +10,7 @@ Introduction à la programmation orientée objet et application des classes à l
 
 + [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ([solution](https://github.com/INSAlgo/Corrections/blob/main/LC/merge%20two%20sorted%20lists.py))
 + [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) ([solution](https://github.com/INSAlgo/Corrections/blob/main/LC/most%20frequent%20subtree%20sum.py))
-+ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solution](https://github.com/INSAlgo/Corrections/blob/main/LC/reverse%20linked%20list.py)
++ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solution](https://github.com/INSAlgo/Corrections/blob/main/LC/reverse%20linked%20list.py))
 
 ### Level 2
 
