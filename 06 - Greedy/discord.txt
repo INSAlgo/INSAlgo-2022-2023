@@ -1,5 +1,5 @@
 **Cours algorithmes greedy**
-  __Slides__ : lien
+  __Slides__ : https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/06%20-%20Greedy/Cours%206%20-%20Greedy.pdf
 
 __Exercices__
 
