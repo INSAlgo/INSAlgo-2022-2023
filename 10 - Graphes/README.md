@@ -1,5 +1,5 @@
 # Introduction aux graphes
-[Sildes](https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/10%20-%20Graphes/Cours%2010%20-%20Graphes.pdf)</br>
+[Slides](https://github.com/INSAlgo/INSAlgo-2022-2023/blob/main/10%20-%20Graphes/Cours%2010%20-%20Graphes.pdf)</br>
 Introduction aux graphes.
 ## Exercices
 ### Level 1
