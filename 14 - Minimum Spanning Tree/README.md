@@ -1,4 +1,3 @@
-# Séance 18 - 15 Mars 2022
 # Minimum Spanning Tree (MST)
 ## Slides
 
