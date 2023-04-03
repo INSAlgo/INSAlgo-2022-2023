@@ -1,5 +1,5 @@
 # Minimum Spanning Tree (MST)
-[Sildes](Cours14-MST.pdf)
+[Sildes](https://github.com/INSAlgo/INSAlgo-2022-2023/blob/c8a865d906d07e3f3a90467fb3da7495d4dad95c/14%20-%20Minimum%20Spanning%20Tree/Cours%2014%20-%20Minimum%20spanning%20tree.pdf)
 
 ## Exercices
 
