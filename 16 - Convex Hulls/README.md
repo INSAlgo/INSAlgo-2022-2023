@@ -1,6 +1,6 @@
 # Convex Hulls
 
-[Slides](16%20-%20Convex%20Hulls)
+[Slides](16%20-%20Convex%20Hulls.pdf)
 
 ## Exercices
 

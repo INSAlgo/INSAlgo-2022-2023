@@ -1,6 +1,6 @@
 # Neural Networks
 
-[Slides](18%20-%20Neural%20Networks)
+[Slides](18%20-%20Neural%20Networks.pdf)
 
 ## Exercices
 
